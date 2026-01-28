@@ -16,28 +16,26 @@ BTF 2 is a competitive PvP experience where players battle against each other to
 
 ## Team
 
-Created by the eightbit games team:
-- cookiemonster
-- brad
-- Mr_Dragon0011
-- slowenberg
-- soup1234
+Created by the [Eightbit Games](https://eightbit-games.netlify.app/) team:
+  - cookiemonster
+  - Mr_Dragon0011
+  - slowenberg
+  - soup1234
 
-## Getting Started
+## Download BTF
 
-[Add installation and launch instructions here]
+**Windows Users**
+BTF 2 will be downloadable on Steam, although the Steam page is still in development
 
-## Requirements
+**Mac Users**
+There will be a different download page for BTF 2 for Mac
 
-[Add system requirements and dependencies]
+**Linux Users**
+Honestly why do you even use Linux
 
-## Controls
 
-[Add control scheme details]
 
-## Contributing
 
-For bug reports or feedback, please reach out to the eightbit games team.
 
 ---
 
