@@ -1,16 +1,13 @@
 fileFormatVersion: 2
-guid: 721ca89241686254ba351766816dcd94
+guid: 645b255b01d622d4d83261c191ba72f9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6401114826350131295
-    second: grandplatform2_0
+      213: 7946423024759095156
+    second: grandplatform2 (1)_0
   - first:
-      213: -5120880693492243192
-    second: grandplatform2_1
-  - first:
-      213: 5728324976683943359
-    second: grandplatform2_2
+      213: 8186676904630757474
+    second: grandplatform2 (1)_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,12 +116,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: grandplatform2_0
+      name: grandplatform2 (1)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 57
+        width: 46
         height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -134,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f58f51f150455d850800000000000000
-      internalID: 6401114826350131295
+      spriteID: 47f30c993ad574e60800000000000000
+      internalID: 7946423024759095156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: grandplatform2_1
+      name: grandplatform2 (1)_1
       rect:
         serializedVersion: 2
         x: 14
@@ -156,30 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8052d3f042afee8b0800000000000000
-      internalID: -5120880693492243192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: grandplatform2_2
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 19
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb58e3167391f7f40800000000000000
-      internalID: 5728324976683943359
+      spriteID: 2682967154bec9170800000000000000
+      internalID: 8186676904630757474
       vertices: []
       indices: 
       edges: []
@@ -198,9 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      grandplatform2_0: 6401114826350131295
-      grandplatform2_1: -5120880693492243192
-      grandplatform2_2: 5728324976683943359
+      grandplatform2 (1)_0: 7946423024759095156
+      grandplatform2 (1)_1: 8186676904630757474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
