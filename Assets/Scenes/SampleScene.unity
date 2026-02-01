@@ -1062,7 +1062,7 @@ MonoBehaviour:
     chance: 50
     type: Natural
     fruits:
-    - Tatofruit
+    - {fileID: 11400000, guid: 3ae0da46185dcaf41846144311b81a66, type: 2}
 --- !u!61 &1266956485
 BoxCollider2D:
   m_ObjectHideFlags: 0
